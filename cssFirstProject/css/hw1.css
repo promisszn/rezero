@@ -1,25 +1,25 @@
 header{
-    background: #607d8b;
+    background: #22223b;
 }
 
 h1{
     text-align: center;
-    color: #7fffd4;
+    color: #f2e9e4;
     text-transform: uppercase;
 }
 
 h2{
-    color:#000fff;
+    color:#22223b;
     text-transform: uppercase;
 }
 
 section{
-    background: #673ab763;
+    background: #c9ada7;
 }
 
 a{
-    background: #00ffff52;
-    color: #795548;
+    background: #9a8c98;
+    color: #22223b;
 }
 
 img{
